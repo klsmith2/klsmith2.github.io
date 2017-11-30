@@ -9,3 +9,7 @@ h1 {
 body{
   font-family: "Arial"
 }
+
+img{
+  max-width:100%;
+}
